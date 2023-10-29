@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-29T08:34:56.792Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="wVpRlZxCp6mc8eJ8lSOM" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-29T10:31:21.640Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="MAu___x6mT1VncUcW8ho" version="22.0.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3301" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4049" dy="1232" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -8,24 +8,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="בקשת הרשאה" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="30" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="כן" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
-          <mxGeometry y="20" relative="1" as="geometry">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="כן" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
+          <mxGeometry x="0.1111" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="לא" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
-          <mxGeometry y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
-            <mxPoint x="320" y="210" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-101" value="לא" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="-IVf00ebbiKwBFE9Y3km-100">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="?כרטיס בנקאי" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="170" width="100" height="80" as="geometry" />
+          <mxGeometry x="170" y="120" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-9" value="לא" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="EC5lf5gmg6Qt6Xy7_AVs-135" edge="1">
-          <mxGeometry y="10" relative="1" as="geometry">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-9" value="לא" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="EC5lf5gmg6Qt6Xy7_AVs-135" edge="1">
+          <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="320" y="330" as="targetPoint" />
           </mxGeometry>
@@ -71,7 +68,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EC5lf5gmg6Qt6Xy7_AVs-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EC5lf5gmg6Qt6Xy7_AVs-29" target="EC5lf5gmg6Qt6Xy7_AVs-41" edge="1">
+        <mxCell id="EC5lf5gmg6Qt6Xy7_AVs-118" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EC5lf5gmg6Qt6Xy7_AVs-29" target="EC5lf5gmg6Qt6Xy7_AVs-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EC5lf5gmg6Qt6Xy7_AVs-29" value="מאושר" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -84,26 +81,22 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-99" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EC5lf5gmg6Qt6Xy7_AVs-31" target="EC5lf5gmg6Qt6Xy7_AVs-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-550" y="690" />
+              <mxPoint x="-550" y="1080" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EC5lf5gmg6Qt6Xy7_AVs-31" value="&lt;p style=&quot;text-indent: -18pt; line-height: 0%;&quot; dir=&quot;RTL&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Arial&amp;quot;,sans-serif;mso-ascii-font-family:Calibri;mso-ascii-theme-font:&lt;br/&gt;minor-latin;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;&lt;br/&gt;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi&quot; lang=&quot;HE&quot;&gt;סכום החריגה גדול ממקסימום לנציג בנק מזרחי&lt;/span&gt;&lt;span dir=&quot;LTR&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-indent: -18pt; line-height: 0%;&quot; dir=&quot;RTL&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Arial&amp;quot;,sans-serif;mso-ascii-font-family:Calibri;mso-ascii-theme-font:&lt;br/&gt;minor-latin;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;&lt;br/&gt;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi&quot; lang=&quot;HE&quot;&gt;וקטן שווה למקסימום נציג בכיר בנק מזרחי&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-indent: -18pt; line-height: 0%;&quot; dir=&quot;RTL&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Arial&amp;quot;,sans-serif;mso-ascii-font-family:Calibri;mso-ascii-theme-font:&lt;br/&gt;minor-latin;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;&lt;br/&gt;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi&quot; lang=&quot;HE&quot;&gt;והמאשר הוא נציג בכיר/ר&quot;צ&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-indent: -18pt; line-height: 0%;&quot; dir=&quot;RTL&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Arial&amp;quot;,sans-serif;mso-ascii-font-family:Calibri;mso-ascii-theme-font:&lt;br/&gt;minor-latin;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;&lt;br/&gt;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi&quot; lang=&quot;HE&quot;&gt;או עם קוד תפקיד&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-indent: -18pt; background-color: initial; font-family: Arial, sans-serif;&quot; lang=&quot;HE&quot;&gt;מנהל&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-indent: -18pt; background-color: initial; font-family: Arial, sans-serif;&quot;&gt;מוקד&lt;/span&gt;&lt;/p&gt;" style="rhombus;whiteSpace=wrap;html=1;spacing=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-280" y="650" width="400" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EC5lf5gmg6Qt6Xy7_AVs-33" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="EC5lf5gmg6Qt6Xy7_AVs-34" edge="1">
-          <mxGeometry x="-0.6431" y="-11" relative="1" as="geometry">
-            <mxPoint x="-280" y="690" as="sourcePoint" />
-            <mxPoint x="-330" y="691" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-280" y="691" />
-              <mxPoint x="-430" y="691" />
-              <mxPoint x="-430" y="990" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EC5lf5gmg6Qt6Xy7_AVs-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EC5lf5gmg6Qt6Xy7_AVs-34" target="EC5lf5gmg6Qt6Xy7_AVs-46" edge="1">
+        <mxCell id="EC5lf5gmg6Qt6Xy7_AVs-117" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EC5lf5gmg6Qt6Xy7_AVs-34" target="EC5lf5gmg6Qt6Xy7_AVs-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EC5lf5gmg6Qt6Xy7_AVs-34" value="מאושר" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-665" y="960" width="110" height="60" as="geometry" />
+          <mxGeometry x="-930" y="1050" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EC5lf5gmg6Qt6Xy7_AVs-35" value="לא" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry x="-0.208" y="20" relative="1" as="geometry">
@@ -126,21 +119,17 @@
         <mxCell id="EC5lf5gmg6Qt6Xy7_AVs-38" value="מאושר" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-413" y="1140" width="67" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-95" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EC5lf5gmg6Qt6Xy7_AVs-41" target="EC5lf5gmg6Qt6Xy7_AVs-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EC5lf5gmg6Qt6Xy7_AVs-41" value="המאשר הוא נציג&lt;br&gt;וסכום החריגה גדול מ&lt;br&gt;מקסימום אישור ללא שליחת&lt;br&gt;מייל לר&quot;צ" style="rhombus;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-990" y="850" width="230" height="80" as="geometry" />
+          <mxGeometry x="-1210" y="710" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EC5lf5gmg6Qt6Xy7_AVs-45" value="שליחת מייל&lt;br&gt;&quot;חריגה&quot;&lt;br&gt;לר&quot;צ" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-940" y="970" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="EC5lf5gmg6Qt6Xy7_AVs-48" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EC5lf5gmg6Qt6Xy7_AVs-46" target="EC5lf5gmg6Qt6Xy7_AVs-49" edge="1">
-          <mxGeometry y="-20" relative="1" as="geometry">
-            <mxPoint x="-870" y="999.5" as="sourcePoint" />
-            <mxPoint x="-920" y="1000" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
+          <mxGeometry x="-1155" y="830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EC5lf5gmg6Qt6Xy7_AVs-49" value="שליחת מייל&lt;br&gt;&quot;חריגה&quot;&lt;br&gt;למנהל מוקד" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-670" y="1180" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1155" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EC5lf5gmg6Qt6Xy7_AVs-76" value="לא" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EC5lf5gmg6Qt6Xy7_AVs-78" target="EC5lf5gmg6Qt6Xy7_AVs-112" edge="1">
           <mxGeometry x="-0.208" y="20" relative="1" as="geometry">
@@ -178,12 +167,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EC5lf5gmg6Qt6Xy7_AVs-110" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EC5lf5gmg6Qt6Xy7_AVs-83" target="EC5lf5gmg6Qt6Xy7_AVs-34" edge="1">
-          <mxGeometry x="-0.3571" y="-10" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-430" y="1080" />
-              <mxPoint x="-430" y="990" />
-            </Array>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-97" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EC5lf5gmg6Qt6Xy7_AVs-83" target="EC5lf5gmg6Qt6Xy7_AVs-34">
+          <mxGeometry x="-0.2222" y="-20" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -223,25 +208,16 @@
         <mxCell id="EC5lf5gmg6Qt6Xy7_AVs-113" value="&lt;p style=&quot;text-indent:-18.0pt;mso-list:l0 level1 lfo1&quot; dir=&quot;RTL&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Arial&amp;quot;,sans-serif;mso-ascii-font-family:Calibri;mso-ascii-theme-font:&lt;br/&gt;minor-latin;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;&lt;br/&gt;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi&quot; lang=&quot;HE&quot;&gt;סכום החריגה קטן שווה למקסימום לנציג&lt;br&gt;&lt;/span&gt;&lt;span dir=&quot;LTR&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-280" y="1240" width="400" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EC5lf5gmg6Qt6Xy7_AVs-46" value="המאשר הוא נציג בכיר/ר&quot;צ&lt;br&gt;וסכום החריגה גדול מ&lt;br&gt;מקסימום אישור ללא שליחת&lt;br&gt;מייל למנהל מוקד" style="rhombus;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-725" y="1050" width="230" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="EC5lf5gmg6Qt6Xy7_AVs-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.558;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EC5lf5gmg6Qt6Xy7_AVs-41" target="EC5lf5gmg6Qt6Xy7_AVs-45" edge="1">
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-96" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EC5lf5gmg6Qt6Xy7_AVs-46" target="EC5lf5gmg6Qt6Xy7_AVs-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EC5lf5gmg6Qt6Xy7_AVs-125" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;endArrow=block;strokeColor=#d79b00;endFill=0;endSize=8;strokeWidth=1;shadow=0;fillColor=#ffe6cc;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="EC5lf5gmg6Qt6Xy7_AVs-34" edge="1">
-          <mxGeometry x="-0.6596" y="-10" relative="1" as="geometry">
-            <mxPoint x="-80" y="1380" as="sourcePoint" />
-            <mxPoint x="-555" y="930" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-80" y="1400" />
-              <mxPoint x="-430" y="1400" />
-              <mxPoint x="-430" y="990" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="EC5lf5gmg6Qt6Xy7_AVs-46" value="המאשר הוא נציג בכיר/ר&quot;צ&lt;br&gt;וסכום החריגה גדול מ&lt;br&gt;מקסימום אישור ללא שליחת&lt;br&gt;מייל למנהל מוקד" style="rhombus;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-1210" y="1030" width="230" height="100" as="geometry" />
         </mxCell>
         <mxCell id="EC5lf5gmg6Qt6Xy7_AVs-127" value="לא" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EC5lf5gmg6Qt6Xy7_AVs-122" target="EC5lf5gmg6Qt6Xy7_AVs-126" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-98" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EC5lf5gmg6Qt6Xy7_AVs-122" target="EC5lf5gmg6Qt6Xy7_AVs-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EC5lf5gmg6Qt6Xy7_AVs-122" value="&lt;p style=&quot;text-indent: -18pt; line-height: 0%;&quot; dir=&quot;RTL&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Arial&amp;quot;,sans-serif;mso-ascii-font-family:Calibri;mso-ascii-theme-font:&lt;br/&gt;minor-latin;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;&lt;br/&gt;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi&quot; lang=&quot;HE&quot;&gt;סכום החריגה גדול ממקסימום לנציג&lt;br&gt;&lt;/span&gt;&lt;span dir=&quot;LTR&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-indent: -18pt; line-height: 0%;&quot; dir=&quot;RTL&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Arial&amp;quot;,sans-serif;mso-ascii-font-family:Calibri;mso-ascii-theme-font:&lt;br/&gt;minor-latin;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;&lt;br/&gt;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi&quot; lang=&quot;HE&quot;&gt;וקטן שווה למקסימום נציג בכיר&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-indent: -18pt; line-height: 0%;&quot; dir=&quot;RTL&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Arial&amp;quot;,sans-serif;mso-ascii-font-family:Calibri;mso-ascii-theme-font:&lt;br/&gt;minor-latin;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;&lt;br/&gt;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi&quot; lang=&quot;HE&quot;&gt;והמאשר הוא נציג בכיר/ר&quot;צ&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-indent: -18pt; line-height: 0%;&quot; dir=&quot;RTL&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Arial&amp;quot;,sans-serif;mso-ascii-font-family:Calibri;mso-ascii-theme-font:&lt;br/&gt;minor-latin;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;&lt;br/&gt;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi&quot; lang=&quot;HE&quot;&gt;או ש TAFKID_CODE=716 (מנהל מוקד)&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-indent: -18pt; line-height: 0%;&quot; dir=&quot;RTL&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;/p&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -354,7 +330,9 @@
           <mxGeometry x="430" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-IVf00ebbiKwBFE9Y3km-78" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-IVf00ebbiKwBFE9Y3km-26" target="-IVf00ebbiKwBFE9Y3km-51">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry y="-20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-IVf00ebbiKwBFE9Y3km-26" value="סכום החריגה קטן שווה למקסימום חריגה בנק מזרחי&lt;br&gt;וגם לאחוז חריגה בנק מזרחי*מסגרת האשראי" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1330" y="520" width="400" height="80" as="geometry" />
@@ -384,11 +362,12 @@
           <mxGeometry x="1840" y="650" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-IVf00ebbiKwBFE9Y3km-76" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-IVf00ebbiKwBFE9Y3km-41" target="-IVf00ebbiKwBFE9Y3km-51">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0909" y="-10" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1240" y="690" />
               <mxPoint x="1240" y="560" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-IVf00ebbiKwBFE9Y3km-79" value="לא" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-IVf00ebbiKwBFE9Y3km-41" target="-IVf00ebbiKwBFE9Y3km-42">
@@ -398,7 +377,7 @@
           <mxGeometry x="1330" y="650" width="400" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-IVf00ebbiKwBFE9Y3km-77" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-IVf00ebbiKwBFE9Y3km-42" target="-IVf00ebbiKwBFE9Y3km-51">
-          <mxGeometry x="-0.3478" relative="1" as="geometry">
+          <mxGeometry x="-0.3478" y="-10" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1240" y="820" />
               <mxPoint x="1240" y="560" />
@@ -408,6 +387,9 @@
         </mxCell>
         <mxCell id="-IVf00ebbiKwBFE9Y3km-42" value="&lt;p style=&quot;border-color: var(--border-color); text-indent: -18pt; line-height: 0px;&quot; dir=&quot;RTL&quot; class=&quot;MsoListParagraph&quot;&gt;המאשר הוא נציג בכיר/ר&quot;צ/מנהל מוקד/מנהל מחלקת שירות פיננסי&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color);&quot; dir=&quot;LTR&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); text-indent: -18pt; line-height: 0px;&quot; dir=&quot;RTL&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); font-family: Arial, sans-serif;&quot; lang=&quot;HE&quot;&gt;וסכום החריגה קטן שווה למקסימום חריגה בנק דיסקונט&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); text-indent: -18pt; line-height: 0px;&quot; dir=&quot;RTL&quot; class=&quot;MsoListParagraph&quot;&gt;וגם לאחוז חריגה לנציג בכיר בנק דיסקונט * מסגרת האשראי&lt;br&gt;&lt;/p&gt;" style="rhombus;whiteSpace=wrap;html=1;spacing=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1330" y="780" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-83" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-IVf00ebbiKwBFE9Y3km-48" target="-IVf00ebbiKwBFE9Y3km-82">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-IVf00ebbiKwBFE9Y3km-48" value="שאר הבנקים" style="rhombus;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1840" y="880" width="80" height="80" as="geometry" />
@@ -442,8 +424,216 @@
         <mxCell id="-IVf00ebbiKwBFE9Y3km-70" value="שליחת מייל &lt;br&gt;&quot;חריגה&quot;&lt;br&gt;למנהל מוקד המשותף" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="945" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-IVf00ebbiKwBFE9Y3km-80" value="&amp;nbsp;AuthoritySum משתנה&lt;br&gt;,מחושב לפי תפקיד המאשר&lt;br&gt;מסגרת האשראי וסוג הכרטיס&lt;br&gt;&amp;nbsp;ECL_T_REP_AUTHORITY מטבלת" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1980" y="830" width="240" height="140" as="geometry" />
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-85" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-IVf00ebbiKwBFE9Y3km-82" target="-IVf00ebbiKwBFE9Y3km-51">
+          <mxGeometry x="-0.4643" y="-10" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1240" y="920" />
+              <mxPoint x="1240" y="560" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-87" value="לא" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-IVf00ebbiKwBFE9Y3km-82" target="-IVf00ebbiKwBFE9Y3km-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-82" value="&lt;p style=&quot;border-color: var(--border-color); text-indent: -18pt; line-height: 0px;&quot; dir=&quot;RTL&quot; class=&quot;MsoListParagraph&quot;&gt;סכום החריגה קטן שווה לAuthoritySum:&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); text-indent: -18pt; line-height: 0px;&quot; dir=&quot;RTL&quot; class=&quot;MsoListParagraph&quot;&gt;מחושב לפי תפקיד המאשר, סוג הכרטיס ומסגרת האשראי&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); text-indent: -18pt; line-height: 0px;&quot; dir=&quot;RTL&quot; class=&quot;MsoListParagraph&quot;&gt;מטבלת ECL_T_REP_AUTHORITY&lt;/p&gt;" style="rhombus;whiteSpace=wrap;html=1;spacing=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1330" y="880" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-89" value="לא" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-IVf00ebbiKwBFE9Y3km-86" target="-IVf00ebbiKwBFE9Y3km-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-94" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-IVf00ebbiKwBFE9Y3km-86" target="-IVf00ebbiKwBFE9Y3km-51">
+          <mxGeometry x="-0.5294" y="-10" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1240" y="1040" />
+              <mxPoint x="1240" y="560" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-86" value="הגורם המעדכן הוא נציג&lt;br&gt;JUNIOR_MAX_AUTHוהסכום לאישור קטן שווה ל" style="rhombus;whiteSpace=wrap;html=1;spacing=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1330" y="1000" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-91" value="לא" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-IVf00ebbiKwBFE9Y3km-88" target="-IVf00ebbiKwBFE9Y3km-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-93" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-IVf00ebbiKwBFE9Y3km-88" target="-IVf00ebbiKwBFE9Y3km-51">
+          <mxGeometry x="-0.625" y="-10" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1240" y="1160" />
+              <mxPoint x="1240" y="560" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-88" value="&amp;nbsp;הגורם המעדכן הוא נציג בכיר/ר&quot;צ&lt;br&gt;SENIOR_MAX_AUTHוהסכום לאישור קטן שווה ל" style="rhombus;whiteSpace=wrap;html=1;spacing=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1330" y="1120" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-92" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-IVf00ebbiKwBFE9Y3km-90" target="-IVf00ebbiKwBFE9Y3km-51">
+          <mxGeometry x="-0.6739" y="-10" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1240" y="1280" />
+              <mxPoint x="1240" y="560" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-90" value="&amp;nbsp;הגורם המעדכן הוא מנהל מוקד&lt;br&gt;והסכום לאישור קטן שווה למקסימום חריגה מנהל מוקד" style="rhombus;whiteSpace=wrap;html=1;spacing=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1330" y="1240" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-107" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-IVf00ebbiKwBFE9Y3km-100" target="-IVf00ebbiKwBFE9Y3km-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-100" value="?WS כרטיס" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2225" y="120" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-102" value="World Signia&lt;br&gt;&amp;nbsp;IS_WS=1 בקשה לכרטיס שעבורו&lt;br&gt;הגורם המאשר נמצא ברשימה Roleו&lt;br&gt;ALL_WS_AUTH_CODES" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1880" width="350" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-103" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-IVf00ebbiKwBFE9Y3km-100" target="-IVf00ebbiKwBFE9Y3km-102">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="160" as="sourcePoint" />
+            <mxPoint x="670" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-104" value="&amp;nbsp;MAX_CREDIT, PERCENT השדות&lt;br&gt;&amp;nbsp;ECL_CREDIT_AUTH נשלפים מטבלה&lt;br&gt;לפי תפקיד הגורם המאשר" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2310" width="350" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-105" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-IVf00ebbiKwBFE9Y3km-100" target="-IVf00ebbiKwBFE9Y3km-104">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2505" y="140" as="sourcePoint" />
+            <mxPoint x="2555" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-109" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-IVf00ebbiKwBFE9Y3km-106" target="-IVf00ebbiKwBFE9Y3km-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-106" value="&amp;nbsp;ALL_WS_AUTH_CODES הגורם המאשר נמצא ברשימה&lt;br&gt;&amp;nbsp;&amp;nbsp;(TEAM_CODE=23) WS והוא לא נציג בכיר/הוא נציג בכיר בצוות&amp;nbsp;&lt;br&gt;ובנוסף:&lt;br&gt;MAX_CREDIT וסכום החריגה קטן שווה ל PERCENT=0&lt;br&gt;MAX_CREDIT וסכום החריגה קטן שווה ל PERCENT&amp;lt;0 או&lt;br&gt;&amp;nbsp;מסגרת האשראי* PERCENT%ול" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2065" y="290" width="420" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-108" value="מאושר" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2220" y="530" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-113" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-IVf00ebbiKwBFE9Y3km-110" target="-IVf00ebbiKwBFE9Y3km-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-110" value="MAX_CREDIT וסכום החריגה קטן שווה ל PERCENT=0&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;MAX_CREDIT וסכום החריגה קטן שווה ל PERCENT&amp;lt;0 או&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;מסגרת האשראי* PERCENT%ול" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2790" y="330" width="330" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-157" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-IVf00ebbiKwBFE9Y3km-112" target="-IVf00ebbiKwBFE9Y3km-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-112" value="מאושר" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2615" y="430" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-114" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="-IVf00ebbiKwBFE9Y3km-116" target="-IVf00ebbiKwBFE9Y3km-115" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-115" value="שליחת מייל&lt;br&gt;&quot;מתן אישור חריג&quot;&lt;br&gt;למאשר" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2610" y="705" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-116" value="המאשר שונה מהמעדכן&lt;br&gt;והתפקידים שלהם שונים" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2570" y="604" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-124" value="לא" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-IVf00ebbiKwBFE9Y3km-121" target="-IVf00ebbiKwBFE9Y3km-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-131" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-IVf00ebbiKwBFE9Y3km-121" target="-IVf00ebbiKwBFE9Y3km-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-136" value="לא" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-IVf00ebbiKwBFE9Y3km-121" target="-IVf00ebbiKwBFE9Y3km-133">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3120" y="270" />
+              <mxPoint x="3290" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-121" value="הגורם המאשר שייך לקבוצת אשראי&lt;br&gt;ולא נמצא במחלקת אשראי פיננסי או שהוא מנהל המחלקה" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2920" y="120" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-141" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-IVf00ebbiKwBFE9Y3km-123" target="-IVf00ebbiKwBFE9Y3km-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-123" value="?הכרטיס הוא כרטיס הראל" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2590" y="120" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-128" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-IVf00ebbiKwBFE9Y3km-125" target="-IVf00ebbiKwBFE9Y3km-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-125" value="סכום החריגה קטן שווה למקסימום חריגה הראל" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2590" y="250" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-129" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.045;entryY=0.519;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-IVf00ebbiKwBFE9Y3km-100" target="-IVf00ebbiKwBFE9Y3km-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-137" value="לא" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-IVf00ebbiKwBFE9Y3km-133" target="-IVf00ebbiKwBFE9Y3km-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-147" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-IVf00ebbiKwBFE9Y3km-133" target="-IVf00ebbiKwBFE9Y3km-51">
+          <mxGeometry x="-0.9622" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2980" y="540" />
+              <mxPoint x="2980" y="780" />
+              <mxPoint x="2120" y="780" />
+              <mxPoint x="2120" y="460" />
+              <mxPoint x="1075" y="460" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-133" value="הגורם המעדכן הוא נציג&lt;br&gt;JUNIOR_MAX_AUTHוהסכום לאישור קטן שווה ל" style="rhombus;whiteSpace=wrap;html=1;spacing=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3090" y="500" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-138" value="לא" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-IVf00ebbiKwBFE9Y3km-134" target="-IVf00ebbiKwBFE9Y3km-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-148" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-IVf00ebbiKwBFE9Y3km-134" target="-IVf00ebbiKwBFE9Y3km-51">
+          <mxGeometry x="-0.9525" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2980" y="660" />
+              <mxPoint x="2980" y="780" />
+              <mxPoint x="2120" y="780" />
+              <mxPoint x="2120" y="460" />
+              <mxPoint x="1075" y="460" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-134" value="&amp;nbsp;הגורם המעדכן הוא נציג בכיר/ר&quot;צ&lt;br&gt;SENIOR_MAX_AUTHוהסכום לאישור קטן שווה ל" style="rhombus;whiteSpace=wrap;html=1;spacing=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3090" y="620" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-146" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-IVf00ebbiKwBFE9Y3km-135" target="-IVf00ebbiKwBFE9Y3km-51">
+          <mxGeometry x="-0.9501" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3300" y="780" />
+              <mxPoint x="2115" y="780" />
+              <mxPoint x="2115" y="460" />
+              <mxPoint x="1075" y="460" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-135" value="&amp;nbsp;הגורם המעדכן הוא מנהל מוקד&lt;br&gt;והסכום לאישור קטן שווה למקסימום חריגה מנהל מוקד" style="rhombus;whiteSpace=wrap;html=1;spacing=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3090" y="740" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-158" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-IVf00ebbiKwBFE9Y3km-155" target="-IVf00ebbiKwBFE9Y3km-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-159" value="לא" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-IVf00ebbiKwBFE9Y3km-155" target="-IVf00ebbiKwBFE9Y3km-51">
+          <mxGeometry x="-0.92" y="-5" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2470" y="546" />
+              <mxPoint x="2470" y="780" />
+              <mxPoint x="2120" y="780" />
+              <mxPoint x="2120" y="460" />
+              <mxPoint x="1075" y="460" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-155" value="?גורם אשראי" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2606.25" y="520" width="127.5" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
