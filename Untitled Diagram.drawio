@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-02T20:09:11.644Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="XwdVgN2FDd0z24RqaAb2" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-02T20:29:59.392Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="MozoxdxsPAF4e8MM3YFS" version="22.1.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3301" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -170,7 +170,7 @@
         <mxCell id="EC5lf5gmg6Qt6Xy7_AVs-83" value="&lt;p style=&quot;border-color: var(--border-color); text-indent: -18pt; line-height: 0px;&quot; dir=&quot;RTL&quot; class=&quot;MsoListParagraph&quot;&gt;המאשר הוא נציג בכיר/ר&quot;צ/מנהל מוקד/מנהל מחלקת שירות פיננסי&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color);&quot; dir=&quot;LTR&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); text-indent: -18pt; line-height: 0px;&quot; dir=&quot;RTL&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); font-family: Arial, sans-serif;&quot; lang=&quot;HE&quot;&gt;וסכום החריגה קטן שווה למקסימום חריגה בנק דיסקונט 5000&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); text-indent: -18pt; line-height: 0px;&quot; dir=&quot;RTL&quot; class=&quot;MsoListParagraph&quot;&gt;וגם לאחוז חריגה לנציג בכיר בנק דיסקונט 15 * מסגרת האשראי&lt;br&gt;&lt;/p&gt;" style="rhombus;whiteSpace=wrap;html=1;spacing=0;fillColor=#EECDF7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-280" y="1040" width="400" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EC5lf5gmg6Qt6Xy7_AVs-99" value="המאשר הוא המשתמש המחובר למערכת" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="EC5lf5gmg6Qt6Xy7_AVs-99" value="המאשר הוא המשתמש &lt;br&gt;המחובר למערכת" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry y="340" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EC5lf5gmg6Qt6Xy7_AVs-101" value="" style="endArrow=none;html=1;rounded=0;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EC5lf5gmg6Qt6Xy7_AVs-99" edge="1">
