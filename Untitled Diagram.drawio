@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-02T20:29:59.392Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="MozoxdxsPAF4e8MM3YFS" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-06T05:24:43.302Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="lNpTeUP2QzDtwU6Nr4a8" version="22.1.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3301" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3328" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -563,7 +563,7 @@
         <mxCell id="-IVf00ebbiKwBFE9Y3km-125" value="סכום החריגה קטן שווה למקסימום חריגה הראל" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2590" y="250" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-IVf00ebbiKwBFE9Y3km-129" value="כן" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.045;entryY=0.519;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-IVf00ebbiKwBFE9Y3km-100" target="-IVf00ebbiKwBFE9Y3km-123" edge="1">
+        <mxCell id="-IVf00ebbiKwBFE9Y3km-129" value="לא" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.045;entryY=0.519;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-IVf00ebbiKwBFE9Y3km-100" target="-IVf00ebbiKwBFE9Y3km-123" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-IVf00ebbiKwBFE9Y3km-137" value="לא" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-IVf00ebbiKwBFE9Y3km-133" target="-IVf00ebbiKwBFE9Y3km-134" edge="1">
